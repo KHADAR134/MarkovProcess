@@ -23,8 +23,7 @@ Assumptions for Markov Chain :
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 # Program
 ```python
